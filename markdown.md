@@ -8,12 +8,12 @@ I'm a **frontend developer** and a _programming👨‍💻 enthusiast_ from Arge
 
 Even though I'm still in the learning process, I've demonstrated a great ability to apply my knowledge to practical projects. Being from Argentina, I bring a unique perspective and am eager to contribute to the global tech community.
 
-## 🚀 Skills I possess
-- Programming Languages: JavaScript, CSS, Markdown
-- Frameworks/Libraries: React
-- Development Tools: Git, GitHub, Visual Studio Code
-- Development Methodologies: Agile Development, Scrum
-- Soft Skills: Self-taught, Problem-solving, Teamwork, Effective Communication.
+## 🚀🚀🚀 Skills I possess 🚀🚀🚀
+- 🚀Programming Languages: JavaScript, CSS, Markdown
+- 🚀Frameworks/Libraries: React
+- 🚀Development Tools: Git, GitHub, Visual Studio Code
+- 🚀Development Methodologies: Agile Development, Scrum
+- 🚀Soft Skills: Self-taught, Problem-solving, Teamwork, Effective Communication.
 
 ## 📈 GitHub Stats
 
